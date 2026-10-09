@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<productos>
+    <producto id="1">
+        <nombre>Teclado mecánico</nombre>
+        <categoria>Informática</categoria>
+        <precio>59.99</precio>
+        <stock>12</stock>
+    </producto>
+
+    <producto id="2">
+        <nombre>Ratón inalámbrico</nombre>
+        <categoria>Informática</categoria>
+        <precio>24.50</precio>
+        <stock>30</stock>
+    </producto>
+
+    <producto id="3">
+        <nombre>Monitor 24 pulgadas</nombre>
+        <categoria>Monitores</categoria>
+        <precio>149.90</precio>
+        <stock>8</stock>
+    </producto>
+
+    <producto id="4">
+        <nombre>Auriculares Bluetooth</nombre>
+        <categoria>Audio</categoria>
+        <precio>39.95</precio>
+        <stock>15</stock>
+    </producto>
+</productos>
